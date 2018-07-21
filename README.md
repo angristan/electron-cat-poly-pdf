@@ -8,6 +8,8 @@ This Electron app containes a cat picture. You will be able to draw polygons on 
 
 You're welcome.
 
+It was made thanks to [elementary-electron](https://github.com/maxogden/elementary-electron)
+
 ## Installation
 
 ```
