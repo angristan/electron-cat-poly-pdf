@@ -1,0 +1,26 @@
+{
+  "name": "electron-cat-poly-pdf",
+  "version": "1.0.0",
+  "description": "Electron app to draw polygons on a cat and export to PDF",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "angristan",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Angristan/electron-cat-poly-pdf.git"
+  },
+  "dependencies": {
+    "cat-picture": "^5.1.2",
+    "electron": "^2.0.5",
+    "lightning-image-poly": "0.0.10"
+  },
+  "devDependencies": {
+    "@types/electron": "^1.6.10",
+    "eslint": "^4.19.1",
+    "eslint-config-airbnb-base": "^13.0.0",
+    "eslint-plugin-import": "^2.13.0"
+  }
+}
