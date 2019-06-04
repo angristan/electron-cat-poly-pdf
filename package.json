@@ -14,7 +14,7 @@
   },
   "dependencies": {
     "cat-picture": "^5.1.2",
-    "electron": "^2.0.5",
+    "electron": "^2.0.8",
     "lightning-image-poly": "0.0.10"
   },
   "devDependencies": {
